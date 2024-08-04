@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 typedef char C;typedef long I;
 typedef struct a{I t,r,d[3],p[2];}*A;
 #define P printf
